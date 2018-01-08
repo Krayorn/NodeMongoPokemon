@@ -1,0 +1,15 @@
+{
+  "name": "pokemon-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://bitbucket.org/_jmpp/pokemon-app.git",
+  "author": "Nathael Arki <nathael.arki@supinternet.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "express": "^4.16.2",
+    "helmet": "^3.9.0",
+    "mongoose": "^4.13.9",
+    "morgan": "^1.9.0"
+  }
+}
